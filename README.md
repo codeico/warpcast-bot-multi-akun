@@ -2,6 +2,28 @@
 
 ## Cara Pakai
 
+
+*BOT AUTO COMMENT HAM RANDOM (🍖 x 10)*
+
+Link Bot : _https://warpbots.vercel.app/_
+
+Tutorial ambil token : https://github.com/codeico/warpcast-bot-multi-akun/blob/main/README.md
+
+1. Masuk ke link bot
+2. ⁠Follow github @codeico
+3. ⁠Masukkan username github kalian
+4. ⁠Masukkan token yang telah kalian dapatkan dari tutorial
+5. ⁠Klik Login
+6. ⁠Pilih Menu 4
+7. ⁠Pilih akun
+8. ⁠masukkan link Channel
+9. ⁠Klik Search 2x
+10. ⁠Klik Gas Bang
+
+*Note: _Bot bisa digunakan di beberapa akun, tinggal masukkan beberapa barier menggunakan enter_
+
+
+##Cara Cari Token
 1. Cari Token Akun Warpcast Kalian, buka `https://warpcast.com/` di browser pc kalian
 
 2. Klik login dengan qr
